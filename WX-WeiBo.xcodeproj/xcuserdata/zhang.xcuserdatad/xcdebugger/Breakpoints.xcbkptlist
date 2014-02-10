@@ -8,11 +8,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "WX-WeiBo/UserViewController.m"
-         timestampString = "413701185.42746"
+         timestampString = "413734574.615247"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "160"
-         endingLineNumber = "160"
+         startingLineNumber = "151"
+         endingLineNumber = "151"
          landmarkName = "-loadWeiboDataFinish:"
          landmarkType = "5">
       </FileBreakpoint>

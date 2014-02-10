@@ -155,7 +155,7 @@
         WeiboAnnotation *weiboAnnotation = [[WeiboAnnotation alloc] initWithWeibo:weibo];
         
         
-        [self.map performSelector:@selector(addAnnotation:) withObject:weiboAnnotation afterDelay:i*0.1];
+        [self.map performSelector:@selector(addAnnotation:) withObject:weiboAnnotation afterDelay:i*0.05];
         
         
 //        [self.map addAnnotation:weiboAnnotation];

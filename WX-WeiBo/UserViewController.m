@@ -148,6 +148,8 @@
         WeiBoModel *weibo = [[WeiBoModel alloc] initWithDataDic:dic];
         
         [weibos addObject:weibo];
+        
+        
     }
     
     self.tableView.data = weibos;
